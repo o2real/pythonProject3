@@ -1,7 +1,9 @@
 print("test")
-ㅣ망너리ㅏㅁ
-ㅏㅓㅁ니아런ㅇㅁ
-]]\
+
+def main():
+    print("test")
 
 
-ㅁㄴ이라ㅓㅁㄴ이라ㅓㅁㄴ
+main()
+
+
